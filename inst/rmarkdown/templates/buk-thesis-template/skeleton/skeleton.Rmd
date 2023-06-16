@@ -1,0 +1,11 @@
+---
+title: "BUK thesis template"
+author: "Shehu Mohammed"
+date: "15th June, 2023"
+output: output_format
+---
+
+
+## The BUK Thesis Template
+
+The BUK thesis template contains all the basic requirements for writing a thesis that conforms to the guidelines for presenting thesis in BUK mainly for graduate students.
